@@ -1,0 +1,39 @@
+[  
+   {  
+    
+     "name": "ABC",  
+     "login_details": "abc@gmail.com",  
+     "sex": "Male"  ,
+     "date_of_birth": "09-05-1999",  
+     "contact_information": "9999999999",  
+     "billing_addresses": "DELHI",
+     "delivery_addresses": "CP, DELHI",  
+     "payment_information": "Cash",  
+     "order_information": "Books",
+     "tags": "#study"
+   },  
+   {  
+    "name": "XYZ",  
+    "login_details": "xyz@rediffmail.com",  
+    "sex": "Female"  ,
+    "date_of_birth": "04-01-2000",  
+    "contact_information": "8888888888",  
+    "billing_addresses": "NAINITAL",
+    "delivery_addresses": "MALL ROAD, NAINITAL",  
+    "payment_information": "Online",  
+    "order_information": "Sling Bag",
+    "tags": "#pink #bag" 
+   },
+   {  
+    "name": "MNO",  
+    "login_details": "mno@yahoo.com",  
+    "sex": "Male"  ,
+    "date_of_birth": "10-09-2000",  
+    "contact_information": "4444444444",  
+    "billing_addresses": "KOLKATA",
+    "delivery_addresses": "EDEN GARDENS, KOLKATA",  
+    "payment_information": "Cash",  
+    "order_information": "Yoga Mat",
+    "tags": "#meditation #mat" 
+   }
+ ]
