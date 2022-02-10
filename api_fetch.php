@@ -1,5 +1,5 @@
 <?php
-$con=mysqli_connect("localhost","root","","user_management_system");
+$con=mysqli_connect("localhost","root","","user_management_system"); //connecting to the local MySQL database named user_management_system
 if($con)
 {
    $sql="select * from user_info";
@@ -20,7 +20,7 @@ if($con)
            $response[$i]['Tags']=$row['tags'];
            $i++;
        }
-       echo json_encode($response,JSON_PRETTY_PRINT);
+       echo json_encode($response,JSON_PRETTY_PRINT);  //encoding the data into json form
    }
 }  
 else
